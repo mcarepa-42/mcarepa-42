@@ -2,7 +2,7 @@
 
 # Hi, I'm Miguel Dias 👋
 
-### Software developer focused on C, systems programming, Linux, and backend fundamentals.
+### Software developer focused on C and C++, systems programming, Linux, and backend fundamentals.
 
 Currently building strong foundations through the 42 curriculum and hands-on projects.
 
@@ -23,7 +23,7 @@ Currently building strong foundations through the 42 curriculum and hands-on pro
 
 I'm a developer who enjoys understanding how things work under the hood — memory, processes, file descriptors, algorithms, networking, and low-level systems.
 
-Most of my work is focused on writing clean, reliable C code and building projects that teach real engineering fundamentals.
+Most of my work is focused on writing clean, reliable C/C++ code and building projects that teach real engineering fundamentals.
 
 ---
 
@@ -31,7 +31,7 @@ Most of my work is focused on writing clean, reliable C code and building projec
 
 <table>
   <tr>
-    <td>⚙️ Systems programming in C</td>
+    <td>⚙️ Systems programming in C/C++</td>
     <td>🐧 Unix/Linux internals</td>
   </tr>
   <tr>
